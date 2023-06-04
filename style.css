@@ -50,7 +50,6 @@ p{
     margin-left: 100px;
     margin-right: 50px;
     margin-top: 50px;
-    margin-bottom: 20px;
     font-size: 1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -68,8 +67,7 @@ p{
     justify-content: center;
     width: 300px;
     margin: auto;
-    margin-top: 200px;
-    padding-top: 50px;
+    padding-top: 200px;
 }
 
 #AboutMe #ContactMe h1{
