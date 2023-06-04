@@ -110,7 +110,12 @@ textarea:focus-within{
     border-width: 3px;
 }
 
-button{
+.hire{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.form button{
     background-color: #000;
     border-radius: 20px;
     border-color: #fff;
@@ -123,7 +128,7 @@ button{
     margin: auto;
 }
 
-button:hover{
+.form button:hover{
     opacity: 80%;
     cursor: pointer;
 }
